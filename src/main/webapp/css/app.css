@@ -1,0 +1,21 @@
+.ui-autocomplete {
+	max-height: 100px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.wide {
+	width: 300px;
+}
+
+.ui-autocomplete {
+	width: 300px;
+}
+
+.spacer {
+	margin-top: 20px;
+}
+
+.deleteControl {
+	cursor: pointer;
+}
